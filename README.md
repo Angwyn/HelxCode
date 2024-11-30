@@ -1,7 +1,7 @@
 # HelxCode
 An Open Source Code Editor specially made for Python Programmer. Integrated with AI
 
-Your Ultimate Python Coding Partner
+<b>Your Ultimate Python Coding Partner</b>
 
 💡 Why Choose HelxCode?
 
