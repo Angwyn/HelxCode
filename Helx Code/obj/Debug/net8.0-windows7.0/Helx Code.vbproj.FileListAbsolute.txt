@@ -1,0 +1,19 @@
+C:\Users\angwy\OneDrive\Documents\Visual Studio Projects\Helx Code\Helx Code\bin\Debug\net8.0-windows7.0\Helx Code.exe
+C:\Users\angwy\OneDrive\Documents\Visual Studio Projects\Helx Code\Helx Code\bin\Debug\net8.0-windows7.0\Helx Code.deps.json
+C:\Users\angwy\OneDrive\Documents\Visual Studio Projects\Helx Code\Helx Code\bin\Debug\net8.0-windows7.0\Helx Code.runtimeconfig.json
+C:\Users\angwy\OneDrive\Documents\Visual Studio Projects\Helx Code\Helx Code\bin\Debug\net8.0-windows7.0\Helx Code.dll
+C:\Users\angwy\OneDrive\Documents\Visual Studio Projects\Helx Code\Helx Code\bin\Debug\net8.0-windows7.0\Helx Code.pdb
+C:\Users\angwy\OneDrive\Documents\Visual Studio Projects\Helx Code\Helx Code\obj\Debug\net8.0-windows7.0\Helx_Code.Resources.resources
+C:\Users\angwy\OneDrive\Documents\Visual Studio Projects\Helx Code\Helx Code\obj\Debug\net8.0-windows7.0\Helx Code.vbproj.GenerateResource.cache
+C:\Users\angwy\OneDrive\Documents\Visual Studio Projects\Helx Code\Helx Code\obj\Debug\net8.0-windows7.0\Helx Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angwy\OneDrive\Documents\Visual Studio Projects\Helx Code\Helx Code\obj\Debug\net8.0-windows7.0\Helx Code.AssemblyInfoInputs.cache
+C:\Users\angwy\OneDrive\Documents\Visual Studio Projects\Helx Code\Helx Code\obj\Debug\net8.0-windows7.0\Helx Code.AssemblyInfo.vb
+C:\Users\angwy\OneDrive\Documents\Visual Studio Projects\Helx Code\Helx Code\obj\Debug\net8.0-windows7.0\Helx Code.vbproj.CoreCompileInputs.cache
+C:\Users\angwy\OneDrive\Documents\Visual Studio Projects\Helx Code\Helx Code\obj\Debug\net8.0-windows7.0\Helx Code.dll
+C:\Users\angwy\OneDrive\Documents\Visual Studio Projects\Helx Code\Helx Code\obj\Debug\net8.0-windows7.0\refint\Helx Code.dll
+C:\Users\angwy\OneDrive\Documents\Visual Studio Projects\Helx Code\Helx Code\obj\Debug\net8.0-windows7.0\Helx Code.pdb
+C:\Users\angwy\OneDrive\Documents\Visual Studio Projects\Helx Code\Helx Code\obj\Debug\net8.0-windows7.0\Helx Code.genruntimeconfig.cache
+C:\Users\angwy\OneDrive\Documents\Visual Studio Projects\Helx Code\Helx Code\obj\Debug\net8.0-windows7.0\ref\Helx Code.dll
+C:\Users\angwy\OneDrive\Documents\Visual Studio Projects\Helx Code\Helx Code\obj\Debug\net8.0-windows7.0\Helx_Code.Main.resources
+C:\Users\angwy\OneDrive\Documents\Visual Studio Projects\Helx Code\Helx Code\obj\Debug\net8.0-windows7.0\Helx_Code.About.resources
+C:\Users\angwy\OneDrive\Documents\Visual Studio Projects\Helx Code\Helx Code\obj\Debug\net8.0-windows7.0\Helx_Code.EULA.resources
