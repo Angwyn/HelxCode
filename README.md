@@ -1,4 +1,6 @@
 # HelxCode
+*UNFINISHED PRODUCT*
+
 An Open Source Code Editor specially made for Python Programmer. Integrated with AI
 
 <b>Your Ultimate Python Coding Partner</b>
